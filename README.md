@@ -3,6 +3,8 @@ A curated list of what we consider the most important (or most interesting) news
 
 ## 2016
 
+- The [State of JS 2016](http://stateofjs.com/) survey results are in. Over 9000 (...;)) developers reported on which technologies they know and don't know, and which of those they are satisfied with or interested in. The results might surprise you...
+
 - React launches [create-react-app] 
 (https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
 to allow you to jump right into development without spending hours on learning and configuring the build tools.
