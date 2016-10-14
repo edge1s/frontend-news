@@ -3,6 +3,10 @@ A curated list of what we consider the most important (or most interesting) news
 
 ## 2016
 
+### October
+
+- We have a new rising star: [yarn](https://github.com/yarnpkg/yarn) - fast, reliable, and secure package manager for JavaScript.
+
 ### September
 
 - The [State of JS 2016](http://stateofjs.com/) survey results are in. Over 9000 (...;)) developers reported on which technologies they know and don't know, and which of those they are satisfied with or interested in. The results might surprise you...
