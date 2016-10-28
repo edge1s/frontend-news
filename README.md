@@ -5,6 +5,8 @@ A curated list of what we consider the most important (or most interesting) news
 
 ### October
 
+- [Node v7.0.0](https://nodejs.org/en/blog/release/v7.0.0/) was released.
+
 - We have a new rising star: [yarn](https://github.com/yarnpkg/yarn) - fast, reliable, and secure package manager for JavaScript.
 
 ### September
