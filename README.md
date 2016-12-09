@@ -3,6 +3,12 @@ A curated list of what we consider the most important (or most interesting) news
 
 ## 2016
 
+### December
+
+- [TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1) was released.
+
+- [Angular 1.6](https://toddmotto.com/angular-1-6-is-here) what's new?
+
 ### October
 
 - [Node v7.0.0](https://nodejs.org/en/blog/release/v7.0.0/) was released.
